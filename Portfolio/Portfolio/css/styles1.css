@@ -1,0 +1,29 @@
+
+/*text carosel title*/
+html,body {
+  font-family: monospace;
+  padding: 1em 2em;
+ font-size: 18px;
+ height: 100%;
+ color: black;
+  /* Set a font size */
+  font-size: 16px;
+  }
+h1{
+ font-weight: 200;
+ text-align: center;
+ font-size: 3.5em;
+ color: black;
+position: top;
+}
+
+
+.pict {
+  align-content: center;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
